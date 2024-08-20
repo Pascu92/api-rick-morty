@@ -44,7 +44,7 @@ ejecuta
 
 -   **listApiCharacters**
 
-    -   URL: `http://127.0.0.1:8000/api/characters/api`
+    -   URL: `http://127.0.0.1:8000/api/charactersApi`
     -   Método: `GET`
     -   Headers:
         -   `Authorization: Bearer <tu_access_token>`
